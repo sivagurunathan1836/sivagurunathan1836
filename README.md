@@ -1,13 +1,15 @@
 <div align="center">
 
-# 👋 Hey, I'm Sivagurunathan C
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200&section=header&text=Sivagurunathan%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descColor=9FE1CB" />
 
-### AI & Data Science Student · Full Stack Developer · MERN Stack · ML Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+AI-powered+full+stack+apps;MERN+Stack+%7C+Python+%7C+Machine+Learning;IEEE+Published+%7C+Open+to+opportunities)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sivaguru--portfolio.vercel.app-blue?style=flat-square&logo=vercel)](https://sivaguru-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sivagurunathan1836-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/Sivagurunathan1836)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sivagurunathan1836-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/sivagurunathan1836)
-[![Email](https://img.shields.io/badge/Email-sivagurunathan1836@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sivagurunathan1836@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sivaguru--portfolio.vercel.app-1D9E75?style=for-the-badge)](https://sivaguru-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sivagurunathan1836)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sivagurunathan1836)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivagurunathan1836@gmail.com)
 
 </div>
 
@@ -15,13 +17,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech student in AI & Data Science** at Kongu Engineering College (2023–2027), passionate about building real-world applications at the intersection of **Full Stack Development** and **Machine Learning**.
-
-- 🎓 CGPA: **7.49** · Class of 2027
-- 🏆 **IEEE Published** — Epileptic Seizure Prediction using Deep Learning (EEG + Deep Neural Networks)
-- ♟️ **Zonal Chess Winner**, Erode 2026
-- 📜 Certified: **Java SE-17 Developer** · **MongoDB Associate Developer**
-- 🌏 Based in Tamil Nadu, India
+```yaml
+name       : Sivagurunathan C
+college    : Kongu Engineering College, Erode
+degree     : B.Tech — Artificial Intelligence & Data Science
+cgpa       : 7.49  |  batch: 2023–2027
+location   : Tamil Nadu, India
+certified  : Java SE-17 Developer  |  MongoDB Associate Developer
+published  : IEEE Conference, PSG iTech (Deep Learning)
+achievement: Zonal Chess Winner, Erode 2026
+goal       : Entry-level Full Stack / Data Science role
+` `` `
 
 ---
 
@@ -61,32 +67,50 @@ I'm a **B.Tech student in AI & Data Science** at Kongu Engineering College (2023
 
 ## 🚀 Featured Projects
 
-### 🧁 AI-Powered Online Bakery System *(Consultancy Project, 2026)*
-> Full Stack Web Application automating orders, inventory, billing, and customer management — with an **AI-based sales prediction** module for demand forecasting and waste reduction.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** React.js · Express.js · Node.js · MongoDB
+### 🧁 AI-Powered Online Bakery System
+> *Consultancy Project · 2026*
 
----
+Automates orders, inventory, billing & customer management. AI-based sales prediction forecasts demand, reduces wastage, and improves efficiency.
 
-### 🏨 AI-Powered Resort Booking System *(MERN Stack, 2026)*
-> Real-time booking platform with admin management via RESTful APIs. Integrated a **demand forecasting module** using ML to optimize pricing based on booking trends.
+`React.js` `Express.js` `Node.js` `MongoDB`
 
-**Tech:** React · Node.js · Express.js · MongoDB · FastAPI · LLM · Machine Learning
+</td>
+<td width="50%" valign="top">
 
----
+### 🏨 AI Resort Booking System
+> *MERN Stack · 2026*
 
-### 🩸 Blood Bank Management System *(2024–2025)*
-> Full-stack web app built with Django featuring authentication, CRUD operations, RESTful APIs, and a responsive frontend with seamless database interaction.
+Real-time booking platform with admin management via RESTful APIs. Demand forecasting module optimizes pricing using ML and booking trends.
 
-**Tech:** Django · Python · HTML · CSS · JavaScript · SQL
+`React` `Node.js` `MongoDB` `FastAPI` `LLM` `ML`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📄 Publication
+### 🩸 Blood Bank Management System
+> *Full Stack · 2024–2025*
 
-**Epileptic Seizure Prediction using Deep Learning**
-Published at **IEEE Conference, PSG iTech**
-> EEG-based seizure prediction using deep neural networks — bridging AI research with real-world healthcare impact.
+Django web app with authentication, CRUD, RESTful APIs and a responsive frontend with seamless database interaction.
+
+`Django` `Python` `HTML` `CSS` `JavaScript` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 IEEE Publication
+> *PSG iTech Conference*
+
+**Epileptic Seizure Prediction using Deep Learning** — EEG-based seizure prediction using deep neural networks, bridging AI research with real healthcare impact.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -94,28 +118,34 @@ Published at **IEEE Conference, PSG iTech**
 
 <div align="center">
 
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivagurunathan1836&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sivagurunathan1836&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagurunathan1836&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivagurunathan1836&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivagurunathan1836&theme=tokyonight&hide_border=true" width="70%"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivagurunathan1836&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivagurunathan1836&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🤖 Deepening expertise in **Machine Learning** & AI-integrated web apps
-- 🌐 Building scalable **MERN stack** applications
-- 📚 Preparing for **entry-level Full Stack / Data Science** roles
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=100&section=footer&fontColor=ffffff" />
+
 *"Code it. Ship it. Learn from it."*
 
-⭐ **If you like my work, consider giving a star to my repos!**
+⭐ **Star a repo if you found it helpful!**
 
 </div>
+```
+
+> **Note:** In the `About Me` block, remove the spaces around the last triple backtick fence ( ` `` ` → ` ``` `) — I added spaces just so it doesn't break the code block here. On GitHub it renders as a clean YAML card.
+
+**Upgrades over the previous version:**
+- Animated wave banner at the top (green teal, matching your AI theme)
+- Typing animation cycling through your skills
+- `yaml` code block for the About Me — looks very clean on GitHub
+- 2-column project table layout instead of a plain list
+- Activity graph added for a fuller stats section
+- Footer wave to close it cleanly
